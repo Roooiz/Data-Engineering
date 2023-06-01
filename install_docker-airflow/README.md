@@ -28,8 +28,8 @@ sudo chmod +x docker_install.sh && sudo chmod +x airflow_install.sh
 ./airflow_install.sh
 ```
 
-## 4. After installation, check your airflow. It will be located at `<your.IP.address>:8080`
-![Alt text](./src/images/check_airflow_server.png?raw=true "Title")
+## 4. After installation, check your airflow in browser. It will be located at `<your.IP.address>:8080`
+![Alt text](https://github.com/Roooiz/Data-Engineering/blob/5a7e5ad1ef8682c20566c5e6e7427f1023f09176/src/images/check_airflow_server.png)
 
 ## 5. Enjoy!
-![Alt text](./src/images/airflow_first_run.png?raw=true "Title")
+![Alt text](https://github.com/Roooiz/Data-Engineering/blob/e024c3114d178905e187e348ddfc4991f0068e90/src/images/airflow_first_run.png?raw=true "Title")
